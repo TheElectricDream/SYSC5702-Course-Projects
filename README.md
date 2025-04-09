@@ -6,3 +6,5 @@ This repository contains the source code to run the various SYSC5702 projects fr
 **Project-2-Feb17**: Implementing IMU-based Forward and Inverse Kinematic Equations
 
 **Project-3-Mar7**: Implementing GPS Single-Point Positioning
+
+**Project-4-Apr11**: Fusion of 2D Car Sensors with GPS using EKF
